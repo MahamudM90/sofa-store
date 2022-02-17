@@ -1,7 +1,6 @@
 ## SOFA-STORE 📚
 
-This is a simple web app for tracking coronavirus (Covid-19).
-
+An Amazing Sofa Store UI Design With React Js
 
 
 ##### Information BD
