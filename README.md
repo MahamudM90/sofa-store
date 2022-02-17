@@ -35,7 +35,7 @@ and feel free to share your opinion, constructive criticism, or comments about m
 
 ## Deployed Version
 
-Feel free to visit 👉 https://sofa-stores.netlify.app/
+Feel free to visit 👉 https://sofa-storeinbd.netlify.app/
 
 ```
   
