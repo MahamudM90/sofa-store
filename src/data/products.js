@@ -8,7 +8,7 @@ const data = [
   },
   {
     id: 2,
-    name: 'OhrenSessel Large',
+    name: 'OhrenSessel isLarge',
     price: 2049.99,
     currency: 'BD',
     image: 'images/02.jpg',
