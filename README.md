@@ -17,14 +17,6 @@ An Amazing Sofa Store UI Design With React Js
 ![ScreenShot of Form](screenshots/c.png)
 
 
-## Key Features
-Some of the standout features of the project are
-
- 1. Two languages support English and Bengali.
- 2. Can see globally total Infected, Recovered and Deaths people.
- 3. Also can see individual country updates
- 4. Graphical visualization.
- 
 
 ## Technologies
  
