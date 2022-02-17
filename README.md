@@ -28,9 +28,7 @@ Some of the standout features of the project are
 
 ## Technologies
  
-1. React.js (Front-end)
-2. css3 (Styling)
-3. API used : [https://corona.lmao.ninja/v2](https://corona.lmao.ninja/v2)
+React js,Redux & React State
 
 ## Known Bugs
 
@@ -39,7 +37,7 @@ and feel free to share your opinion, constructive criticism, or comments about m
 
 ### To run this project :
 1. Clone this repositories
-2. Change your directory : `cd covid-19`
+2. Change your directory : `cd sofa-store`
 3. Run `npm install`
 5. Run `npm start`
 
