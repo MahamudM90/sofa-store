@@ -1,41 +1,50 @@
 ## SOFA-STORE 📚
 
-This is a Book Shop & fully functional-Ecommerce Site. 
+This is a simple web app for tracking coronavirus (Covid-19).
 
 
-##### Footer
+
+##### Information BD
 ![ScreenShot of Form](screenshots/a.png)
 
-##### Customer Reviews
+##### Information Last 30 Days
 ![ScreenShot of Form](screenshots/b.png)
 
-##### CartPage
+##### Current Situation
 ![ScreenShot of Form](screenshots/c.png)
 
+##### Awareness for Covid-19
+![ScreenShot of Form](screenshorts/d.png)
 
+## Key Features
+Some of the standout features of the project are
 
+ 1. Two languages support English and Bengali.
+ 2. Can see globally total Infected, Recovered and Deaths people.
+ 3. Also can see individual country updates
+ 4. Graphical visualization.
+ 
 
+## Technologies
+ 
+1. React.js (Front-end)
+2. css3 (Styling)
+3. API used : [https://corona.lmao.ninja/v2](https://corona.lmao.ninja/v2)
 
-## Technologies uses
- - NextJS basics like setting up project, navigating between pages and data fetching
- - NextJS advanced topics like dynamic routing, image optimization,  SSG and SSR
- - MaterialUI framework to build responsive website using custom theme, animation and carousel
- - ReactJS including decomposing components, context API and hooks
- - Next Connect package to build backend API
- - MongoDB and Mongoose to save and retrieve data like products, orders and users
- - PayPal developer api to make online payment
- - Deploy web applications on servers like Vercel.
+## Known Bugs
 
+Feel free to email me at mahamud01795@gmail.com if you run into any issues or have questions, ideas or concerns. Please enjoy
+and feel free to share your opinion, constructive criticism, or comments about my work. Thank you! 🙂
 
+### To run this project :
+1. Clone this repositories
+2. Change your directory : `cd covid-19`
+3. Run `npm install`
+5. Run `npm start`
 
+## Deployed Version
 
-## Run it Locally
-```
-$ git clone https://github.com/MahamudM90/BOI-GHOR
-$ cd boi-ghor
-$ npm install
-$ npm run dev
-$ Open http://localhost:3000/api/seed
-$ Open http://localhost:3000
+Feel free to visit 👉 https://covid-19detector.netlify.app/
+
 ```
    ###    [Live Site](https://boighorss.vercel.app/?fbclid=IwAR3f1UHUDWg0-41u_pPRq8vSZSZVpnMLtsQ1u3CvYKDppGGCBV4HO2ea-dk)
