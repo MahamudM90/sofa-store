@@ -3,11 +3,15 @@
 An Amazing Sofa Store UI Design With React Js
 
 
-##### Information BD
+##### HomePage
 ![ScreenShot of Form](screenshots/a.png)
 
-##### Information Last 30 Days
+
+
+##### Footer
 ![ScreenShot of Form](screenshots/b.png)
+
+
 
 ##### Current Situation
 ![ScreenShot of Form](screenshots/c.png)
