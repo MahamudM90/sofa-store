@@ -1,4 +1,4 @@
-# react.js shopping cart
+# react.js shopping cart 🥡
 
 example of shopping cart implemented in react.js and redux.js
 
