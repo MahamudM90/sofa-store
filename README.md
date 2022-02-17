@@ -1,4 +1,4 @@
-## SOFA-STORE 🚪
+## SOFA-STORE 🛥️
 
 An Amazing Sofa Store UI Design With React Js🛋️
 
