@@ -1,6 +1,6 @@
 ## SOFA-STORE 🛥️
 
-An Amazing Sofa Store UI Design With React Js🛋️
+An Amazing Sofa-Store UI Design With React Js🛋️
 
 
 ##### HomePage
