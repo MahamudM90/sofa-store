@@ -26,7 +26,7 @@ const App = () => {
             Mahamud
           </a>
           , source code available on{' '}
-          <a href="https://github.com/krzysu/reactjs-shopping-cart">github</a>
+          <a href="https://github.com/MahamudM90/SOFA-STORE">github</a>
         </small>
       </footer>
     </div>
