@@ -3,7 +3,7 @@
 An Amazing Sofa-Store UI Design With React Js🛋️
 
 
-##### HomePage
+##### Home Page
 ![ScreenShot of Form](screenshots/a.png)
 
 
